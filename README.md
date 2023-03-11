@@ -1,13 +1,7 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Work in progress. 
 
-Try running some of the following tasks:
+A platform for generating and exchanging bonds without third party intermediary. 
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Organizations can issue bonds directly on the platform and investors can purchase and exchange these bonds on the platform as well
